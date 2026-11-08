@@ -1,8 +1,6 @@
 <div align="center">
 
-# Miyo MCP Server
-
-<img src="https://miyo-link.com/icon.png" alt="Miyo Logo" width="120" height="120">
+# 🔗 Miyo MCP Server
 
 **Gestisci il tuo profilo [Miyo](https://miyo-link.com) con l'intelligenza artificiale**
 
