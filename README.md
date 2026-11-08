@@ -2,13 +2,15 @@
 
 # Miyo MCP Server
 
-**Gestisci il tuo profilo Miyo con l'intelligenza artificiale**
+<img src="https://miyo-link.com/icon.png" alt="Miyo Logo" width="120" height="120">
+
+**Gestisci il tuo profilo [Miyo](https://miyo-link.com) con l'intelligenza artificiale**
 
 [![npm version](https://img.shields.io/npm/v/miyo-mcp-server.svg)](https://www.npmjs.com/package/miyo-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-blue.svg)](https://modelcontextprotocol.io)
 
-[English](#english) | [Italiano](#italiano)
+[**miyo-link.com**](https://miyo-link.com) | [GitHub](https://github.com/miyolink) | [English](#english) | [Italiano](#italiano)
 
 </div>
 
@@ -300,16 +302,36 @@ npm start
 
 ---
 
-### Support
+### Links
 
-- [Miyo Website](https://miyo-link.com)
-- [GitHub Issues](https://github.com/miyolink/miyo-mcp-server/issues)
-- [MCP Protocol Docs](https://modelcontextprotocol.io)
+| Resource | URL |
+|----------|-----|
+| **Miyo Website** | [miyo-link.com](https://miyo-link.com) |
+| **Create Account** | [miyo-link.com/register](https://miyo-link.com/register) |
+| **Pricing** | [miyo-link.com/pricing](https://miyo-link.com/pricing) |
+| **GitHub Organization** | [github.com/miyolink](https://github.com/miyolink) |
+| **Report Issues** | [GitHub Issues](https://github.com/miyolink/miyo-mcp-server/issues) |
+| **MCP Protocol** | [modelcontextprotocol.io](https://modelcontextprotocol.io) |
+
+---
+
+### What is Miyo?
+
+[**Miyo**](https://miyo-link.com) is a modern link-in-bio platform that helps creators, influencers, and businesses share everything they do in one simple link. Features include:
+
+- Custom themes and animations
+- Analytics and insights
+- Newsletter subscriptions
+- Product shop with auctions
+- Booking system
+- Tips and donations
 
 ---
 
 <div align="center">
 
 **Made with love by [Miyo](https://miyo-link.com)**
+
+[Website](https://miyo-link.com) · [Register](https://miyo-link.com/register) · [Pricing](https://miyo-link.com/pricing) · [GitHub](https://github.com/miyolink)
 
 </div>
