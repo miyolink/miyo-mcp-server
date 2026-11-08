@@ -1,0 +1,45 @@
+{
+  "name": "miyo-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Miyo - AI-powered link-in-bio management via Model Context Protocol",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "miyo-mcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "ai",
+    "link-in-bio",
+    "miyo"
+  ],
+  "author": "Miyo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyolink/miyo-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miyolink/miyo-mcp-server/issues"
+  },
+  "homepage": "https://miyo-link.com",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@supabase/supabase-js": "^2.39.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
